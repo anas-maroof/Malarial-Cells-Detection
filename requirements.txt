@@ -1,0 +1,4 @@
+streamlit==0.71.0
+Keras
+tensorflow
+opencv_python
